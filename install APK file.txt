@@ -1,0 +1,10 @@
+Instructions for install the program in a smartphone and how to use LuciPcinc2:
+
+An APK file is a package that contains the installation files for Android apps. You can install APK files on your Android device from different sources, such as your browser, a file manager app, or a USB cable.
+
+1. Download the APK file you want to install from source.
+
+2. Open your file browser app and navigate to the folder where you downloaded the APK file. Alternatively, you can transfer the APK file from your computer to your phone using a USB cable and install it from your file browser app.
+
+3. Enable the option Allow from this source to let the app install unknown APK files.
+ 
